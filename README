@@ -1,0 +1,3 @@
+This is a Gettext emulator for PHP. If you don't or can't have the real gettext extension, you can drop this file in and with some slight tweaking, it should be able to read your .po files like a pro.
+
+The AMO file is specific to the implementation at addons.mozilla.org v3 (svn.mozilla.org/addons)
