@@ -158,7 +158,7 @@ if (!extension_loaded('gettext')) {
             return (!empty($faketext[$msgid1][0]) ? $faketext[$msgid1][0] : $msgid1);
         }
         else {
-            return (!empty($faketext[$msgid1][1]) ? $faketext[$msgid1][1] : $msgid1);
+            return (!empty($faketext[$msgid1][1]) ? $faketext[$msgid1][1] : $msgid2);
         }
     }
     
